@@ -25,4 +25,40 @@ Busco minha **primeira oportunidade como Desenvolvedor Backend**, e estou consta
 
 ### 📌 Projetos em Destaque
 
-| Projeto | Des
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **API de Catálogo de Produtos** | CRUD completo com Repository, DTOs e validação | C#, .NET, EF Core, SQL Server |
+| **API com Autenticação JWT** | Autenticação, roles e controle de acesso | C#, .NET, EF Core, JWT |
+| **Sistema de Tarefas (Console)** | Treino estruturado de POO e coleções | C#, POO, List\<T\> |
+
+> *Quando quiser, eu reviso cada README de projeto para ficar padrão profissional.*
+
+---
+
+### 🎯 O que estou estudando agora
+- Arquitetura **API REST + Repository + Service**
+- **Entity Framework Core** (mapeamento, migrações, relacionamentos)
+- **Git/GitHub Workflow** profissional
+- Estruturas de Dados & Algoritmos (base para entrevistas)
+
+---
+
+### 📊 Status do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorDeC&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorDeC&layout=compact&theme=transparent)
+
+</div>
+
+---
+
+### 📬 Contato
+
+**LinkedIn:** https://www.linkedin.com/in/joão-victor-de-carvalho-dev  
+**GitHub:** https://github.com/JoaoVictorDeC
+
+---
+
+> _“Constância e foco transformam potencial em resultado.”_
