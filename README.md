@@ -1,64 +1,70 @@
-<!-- Banner -->
-<h1 align="center">👋 Olá, eu sou o João Victor</h1>
-<h3 align="center">Desenvolvedor Backend C# / .NET</h3>
+# 👋 Olá! Eu sou o João Victor
+
+Desenvolvedor **Backend C# .NET**, atualmente cursando **Ciência da Computação** e focado em criar sistemas robustos, organizados e com arquitetura bem definida.  
+Minha abordagem é guiada por **boas práticas**, como **SOLID**, camadas, clean code e domínio claro entre entidades e serviços.
+
+Sou movido pelo aprendizado constante e pela criação de soluções que realmente fazem sentido no mundo real.
 
 ---
 
-Sou desenvolvedor focado em **Backend com C# e .NET**, construindo APIs escaláveis e aplicando boas práticas de **POO, separação de responsabilidades e arquitetura em camadas**.
+## 🚀 **Tech Stack**
+**Linguagens & Frameworks**
+- C# | .NET 6+
+- ASP.NET Core (API REST)
+- Entity Framework Core
+- LINQ
 
-Busco minha **primeira oportunidade como Desenvolvedor Backend**, e estou constantemente evoluindo através de projetos práticos, revisão de código e estudo guiado.
+**Banco de Dados**
+- SQL Server
+- Migrations / Mapeamento ORM
+- Consultas e modelagem de tabelas
 
----
-
-### 🚀 Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <!-- Backend -->
-  <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
-
----
-
-### 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **API de Catálogo de Produtos** | CRUD completo com Repository, DTOs e validação | C#, .NET, EF Core, SQL Server |
-| **API com Autenticação JWT** | Autenticação, roles e controle de acesso | C#, .NET, EF Core, JWT |
-| **Sistema de Tarefas (Console)** | Treino estruturado de POO e coleções | C#, POO, List\<T\> |
-
-> *Quando quiser, eu reviso cada README de projeto para ficar padrão profissional.*
+**Ferramentas & Conceitos**
+- Arquitetura em Camadas
+- SOLID / Clean Code
+- Swagger
+- REST
+- Git & GitHub
 
 ---
 
-### 🎯 O que estou estudando agora
-- Arquitetura **API REST + Repository + Service**
-- **Entity Framework Core** (mapeamento, migrações, relacionamentos)
-- **Git/GitHub Workflow** profissional
-- Estruturas de Dados & Algoritmos (base para entrevistas)
+## 📚 **Formação**
+**Bacharelado em Ciência da Computação** — *Universidade Cruzeiro do Sul*  
+📅 *2022 — 2025* | **GPA:** 8.35 (Em andamento)
 
 ---
 
-### 📊 Status do GitHub
+## 💼 **Experiência Profissional**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorDeC&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorDeC&layout=compact&theme=transparent)
-
-</div>
-
----
-
-### 📬 Contato
-
-**LinkedIn:** https://www.linkedin.com/in/joão-victor-de-carvalho-dev  
-**GitHub:** https://github.com/JoaoVictorDeC
+### Desenvolvedor Backend C# .NET — Projeto Pessoal (1/2024 - 11/2025)
+Desenvolvimento de APIs REST com:
+- ASP.NET Core + EF Core + SQL Server
+- Arquitetura em camadas e SOLID
+- Documentação técnica, DTOs e validações
 
 ---
 
-> _“Constância e foco transformam potencial em resultado.”_
+## 🧩 **Projetos em Destaque**
+
+| Projeto | Descrição | Tecnologias | Link |
+|--------|-----------|-------------|------|
+| **Desafio Itaú Backend** | Desafio baseado em cenário financeiro com CRUD, repositório em memória e camadas organizadas. | C#, .NET, SOLID, Clean Code | https://github.com/JoaoVictorDeC/Desafio_Itau_Backend_ |
+| **CAF NASA API** | Simulação de e-commerce consumindo API externa (NASA), com integração e tratamento de respostas JSON. | C#, .NET, DTOs, HTTP Client | https://github.com/JoaoVictorDeC/Caf-Nasa-API |
+| **Concessionária API** | API REST para gerenciamento de veículos, clientes e vendas, usando EF Core e SQL Server. | C#, ASP.NET Core, EF Core, SQL | https://github.com/JoaoVictorDeC/Concessionaria-API-ussing-Entity-Framework-Core |
+
+---
+
+## 🎯 **O que estou estudando atualmente**
+- Estruturas de Dados aplicadas em C# (List, Dictionary, LINQ)
+- Testes (xUnit) e boas práticas de arquitetura
+- Preparação para vagas júnior Backend .NET
+
+---
+
+## 📫 **Contato**
+**LinkedIn:** https://www.linkedin.com/in/joão-victor-de-carvalho-devab0661  
+**GitHub:** https://github.com/JoaoVictorDeC  
+
+---
+
+> *"Constância, disciplina e clareza de propósito. Aprimorando um pouco todos os dias."*
